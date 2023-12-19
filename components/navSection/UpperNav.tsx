@@ -13,6 +13,13 @@ const UpperNav = () => {
             <FaSquareInstagram />
             <FaYoutube />
         </div>
+        <div className='flex gap-2'>
+            <p className='text-white text-[11px]'>FAQS</p>
+            <div className='h-[10px] w-px bg-white my-auto'/>
+            <p className='text-white text-[11px]'>TERMS</p>
+            <div className='h-[10px] w-px bg-white my-auto'/>
+            <p className='text-white text-[11px]'>CONTACT US</p>
+        </div>
     </div>
   )
 }

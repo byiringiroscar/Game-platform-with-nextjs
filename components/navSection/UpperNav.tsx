@@ -7,7 +7,7 @@ import { FaYoutube } from "react-icons/fa";
 const UpperNav = () => {
   return (
     <div className='padding-container w-full py-2 bg-[#438F1B] flex justify-between'>
-        <div className='flex gap-2 text-white items-center h-full'>
+        <div className='flex gap-3 text-white items-center h-full'>
             <FaFacebookF />
             <FaTwitter />
             <FaSquareInstagram />

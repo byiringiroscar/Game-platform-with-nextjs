@@ -1,8 +1,13 @@
 import React from 'react'
+import UpperNav from './navSection/UpperNav'
+import LowerNav from './navSection/LowerNav'
 
 const Navbar = () => {
   return (
-    <div>Navbar</div>
+    <div>
+        <UpperNav />
+        <LowerNav />
+    </div>
   )
 }
 

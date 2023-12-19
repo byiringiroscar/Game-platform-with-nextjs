@@ -4,7 +4,7 @@ import LowerNav from './navSection/LowerNav'
 
 const Navbar = () => {
   return (
-    <div className='max-container padding-container'>
+    <div className='max-container'>
         <UpperNav />
         <LowerNav />
     </div>
